@@ -24,4 +24,6 @@ int i, s1 = 0, s2 = 0;
 		a -= size;
 	}
 
+	printf("%d, %d\n", s1, s2);
+}
 
